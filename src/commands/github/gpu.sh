@@ -1,0 +1,3 @@
+gpu() {
+    git push
+}

@@ -1,0 +1,3 @@
+gi() {
+    git init
+}

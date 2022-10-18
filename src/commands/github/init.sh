@@ -1,0 +1,9 @@
+source $HOME/.config/bash/commands/github/gm.sh
+source $HOME/.config/bash/commands/github/ga.sh
+source $HOME/.config/bash/commands/github/gb.sh
+source $HOME/.config/bash/commands/github/gc.sh
+source $HOME/.config/bash/commands/github/gco.sh
+source $HOME/.config/bash/commands/github/gi.sh
+source $HOME/.config/bash/commands/github/gp.sh
+source $HOME/.config/bash/commands/github/gpu.sh
+source $HOME/.config/bash/commands/github/gs.sh

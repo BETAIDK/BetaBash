@@ -1,0 +1,1 @@
+source $HOME/.config/bash/src/profiles/uno.sh
