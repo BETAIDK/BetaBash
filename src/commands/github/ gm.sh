@@ -1,3 +1,0 @@
-gm() {
-    git merge
-}

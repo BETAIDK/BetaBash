@@ -1,3 +1,3 @@
 ga() {
-    git add
+    git add $*
 }

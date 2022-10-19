@@ -1,3 +1,3 @@
 gb() {
-    git branch
+    git branch $*
 }

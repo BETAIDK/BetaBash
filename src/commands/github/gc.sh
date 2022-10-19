@@ -1,3 +1,3 @@
 gc() {
-    git clone
+    git clone $*
 }

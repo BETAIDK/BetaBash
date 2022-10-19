@@ -1,3 +1,3 @@
 gco() {
-    git commit
+    git commit $*
 }

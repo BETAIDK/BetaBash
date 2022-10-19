@@ -1,3 +1,3 @@
 gi() {
-    git init
+    git init $*
 }

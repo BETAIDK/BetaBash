@@ -1,3 +1,3 @@
 gp() {
-    git pull
+    git pull $*
 }

@@ -1,3 +1,3 @@
 gpu() {
-    git push
+    git push $*
 }

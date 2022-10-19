@@ -1,6 +1,5 @@
 init() {
-    source $HOME/.config/bash/src/commands/init.sh
-    source $HOME.config/bash/src/profiles/init.sh
+    source $HOME/.config/bash/commands/init.sh
 }
 
 init
