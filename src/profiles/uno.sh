@@ -1,7 +1,7 @@
 localFiles=$(pwd)
 readarray -d "/" -t localFiles <<< "$localFiles"
 
-PS1="[\u@\h) $((${localFiles[#localFiles[@] - 1]}]))\$ "
+PS1="[\u@\h) $((${localFiles[#{localFiles[@]} - 1]}]))\$ "
 
 ps1string=" $localFiles "
 DATETEXT="$(date +'%H:%M:%S') "
